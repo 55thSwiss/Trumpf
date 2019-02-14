@@ -1,2 +1,2 @@
 # Trumpf
-Trumpf QuickFlow application to automatically adjust CAD variables from a barcode scan
+Trumpf QuickFlow application. Please see document Trumpf "QuickFlow Module Program Template" for details.
